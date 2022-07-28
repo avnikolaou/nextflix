@@ -64,6 +64,7 @@ button {
   margin: 0;
   border: 0;
   outline: 0;
+  color: var(--white10);
 }
 
 :root {
